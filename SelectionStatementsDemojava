@@ -1,4 +1,4 @@
-public class Main {
+public class SelectionStatementsDemo {
     public static void main(String[] args) {
         int score = 85; 
         
